@@ -19,4 +19,11 @@ In this project, we’ll take the example of buying a phone online further and t
 ## Prerequisites:
 The important modules needed for this projects are flask and beautifulSoup and sore other are given in requirements.txt file ,to install all dependencies just run :pip install -r requirements.txt
 
-![Image description](https://drive.google.com/open?id=1Exh1KJQaa7Wax9BtFod1d4sCn2tW78If)
+For hosting the website I have used Heroku cloud as it gives first 5 app hosting free
+## Heroku:
+The Python app that we have developed is residing on our local machine. But to make it available to end-users,  we need to deploy it to either an on-premise server or to a cloud service. Heroku is one such cloud service provider. It is free to use(till 5 applications).
+We’ll deploy this application to the Heroku cloud, and then anybody with the URL can then consume our app.
+
+The website will look as follows
+![Search Page of the website](https://github.com/SarthakPhatate/Review-Scrapper/blob/master/SearchPage.png)
+![Review Page of the website](https://github.com/SarthakPhatate/Review-Scrapper/blob/master/ReviewPage.png)
