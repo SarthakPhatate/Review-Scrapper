@@ -25,5 +25,10 @@ The Python app that we have developed is residing on our local machine. But to m
 We’ll deploy this application to the Heroku cloud, and then anybody with the URL can then consume our app.
 
 The website will look as follows
+Search Page of the website
+
 ![Search Page of the website](https://github.com/SarthakPhatate/Review-Scrapper/blob/master/SearchPage.png)
+
+Review Page of the website
+
 ![Review Page of the website](https://github.com/SarthakPhatate/Review-Scrapper/blob/master/ReviewPage.png)
